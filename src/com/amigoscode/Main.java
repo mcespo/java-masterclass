@@ -13,6 +13,11 @@ public class Main {
             total += value;
         }
 
-        System.out.println(total/bills.size());
+        nothing.bobobo();
+
+        something.pop();
+
+
+//        System.out.println(total/bills.size());
     }
 }
